@@ -1,0 +1,23 @@
+{
+  "name": "parcijalni-ispit",
+  "version": "1.0.0",
+  "description": "Razvojna okolina - parcijalni ispit",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/algebra-training/parcijalni-ispit.git"
+  },
+  "author": "algebra-training",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/algebra-training/parcijalni-ispit/issues"
+  },
+  "homepage": "https://github.com/algebra-training/parcijalni-ispit#readme"
+}
