@@ -4,7 +4,8 @@
   "description": "Razvojna okolina - parcijalni ispit",
   "main": "app.js",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "random": "^3.0.6"
   },
   "devDependencies": {},
   "scripts": {
