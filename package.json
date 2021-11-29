@@ -6,8 +6,11 @@
   "dependencies": {
     "express": "^4.17.1"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
   "scripts": {
+    "server":"lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
