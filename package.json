@@ -4,11 +4,12 @@
   "description": "Razvojna okolina - parcijalni ispit",
   "main": "app.js",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "rendom": "^1.0.2"
   },
-  "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "rendom"
   },
   "repository": {
     "type": "git",

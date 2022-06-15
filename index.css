@@ -7,3 +7,7 @@ body {
 p {
   text-align: justify;
 }
+
+h2 {
+  background-color: rgb(205, 205, 28, 2);
+}
