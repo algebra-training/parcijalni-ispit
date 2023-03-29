@@ -1,24 +1,22 @@
 {
-  "name": "parcijalni-ispit",
-  "version": "1.0.0",
-  "description": "Razvojna okolina - parcijalni ispit",
-  "main": "app.js",
-  "dependencies": {
-    "express": "^4.17.1",
-    "random": "^2.1.1"
-  },
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/algebra-training/parcijalni-ispit.git"
-  },
-  "author": "algebra-training",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/algebra-training/parcijalni-ispit/issues"
-  },
-  "homepage": "https://github.com/algebra-training/parcijalni-ispit#readme"
+    "name": "package"
+  , "version": "1.0.1"
+  , "description": "Easy package.json exports."
+  , "keywords": ["package.json"]
+  , "author": "Veselin Todorov <hi@vesln.com>"
+  , "devDependencies": {
+      "mocha": "0.3.3"
+    , "should": "0.3.2"
+  }
+  , "repository" : {
+      "type" : "git",
+      "url" : "http://github.com/vesln/package.git"
+  }
+  , "homepage": "http://github.com/vesln/package"
+  , "scripts": {
+      "test": "make test"
+  }
+  , "main": "./lib/package"
+  , "engines": { "node": ">= 0.6.0" }
 }
+  
