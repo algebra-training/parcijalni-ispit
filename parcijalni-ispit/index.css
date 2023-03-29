@@ -1,0 +1,9 @@
+body {
+  max-width: 600px;
+  margin: auto;
+  text-align: center;
+}
+
+p {
+  text-align: justify;
+}
