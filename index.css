@@ -7,3 +7,19 @@ body {
 p {
   text-align: justify;
 }
+
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: #ccc;
+}
+
+footer p  {
+  text-align: right;
+  font-style: italic;
+  text-decoration:underline;
+  text-underline-offset: 4px;
+  padding: 0.5em 2em;
+}
