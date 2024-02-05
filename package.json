@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/algebra-training/parcijalni-ispit/issues"
   },
-  "homepage": "https://github.com/algebra-training/parcijalni-ispit#readme"
+  "homepage": "https://github.com/algebra-training/parcijalni-ispit#readme",
+  "keywords": [
+    "hello"
+  ]
 }
