@@ -4,9 +4,9 @@
   "description": "Razvojna okolina - parcijalni ispit",
   "main": "app.js",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "harry-potter-spells": "^0.0.4"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/algebra-training/parcijalni-ispit#readme",
   "keywords": [
-    "hello" 
+    "hello"
   ]
 }
