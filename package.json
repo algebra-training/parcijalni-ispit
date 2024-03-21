@@ -20,4 +20,7 @@
     "url": "https://github.com/algebra-training/parcijalni-ispit/issues"
   },
   "homepage": "https://github.com/algebra-training/parcijalni-ispit#readme"
-}
+},
+  "dependencies": {
+    "random": "^4.1.0"
+  }
