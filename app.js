@@ -3,8 +3,10 @@ const app = express();
 const path = require("path");
 const router = express.Router();
 
-const random = require("random");
-console.log("Nasumičan broj između 1 i 100:", random.int(1, 100));
+const randomNumber = require("random-number-csprng");
+randomNumber(1, 100).then((broj) => {
+  console.log("Nasumičan broj između 1 i 100:", broj);
+});
 
 router.get("/", function (req, res) {
   res.sendFile(path.join(__dirname + "/index.html"));

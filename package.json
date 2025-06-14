@@ -5,7 +5,7 @@
   "main": "app.js",
   "dependencies": {
     "express": "^4.17.1",
-    "random": "^5.4.0"
+    "random-number-csprng": "^1.0.2"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
